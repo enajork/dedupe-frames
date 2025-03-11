@@ -3,4 +3,4 @@
 
 ## Usage:
 - Edit the script if you wish to change the input and output name. By default, the script targets the input named "timelapse.mov" and outputs to "output.mov".
-- Run `python3 dedupe-frames.py`
+- Run `python dedupe-frames.py`
